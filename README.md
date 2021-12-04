@@ -3,5 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas del 2021
+## Notas del 2021 del mes de diciembre
 Pueden hacer lo que quieran...
